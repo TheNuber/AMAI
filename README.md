@@ -35,11 +35,11 @@ AMAI/
 
 ## Building
 
-AMAI requires OCaml, Dune, and `base`:
+AMAI requires Opam, to install OCaml and Dune:
 
 ```bash
 # Install dependencies (if not already present)
-opam install dune
+opam install ocaml dune
 
 # Build everything
 cd /path/to/AMAI
