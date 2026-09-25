@@ -6,7 +6,7 @@ This repository accompanies the paper:
 
 > **AMAI: Algebraic Modelling of Distributed AI Computations for Symbolic Performance Analysis**  
 > Rubén Coll Sánchez, Thibaut Tachon, Pierre Leca, Teng Su and Chong Li
-> *PMBS 2026 workshop at SC 2026*
+> *Accepted at PMBS 2026, workshop at SC 2026*
 
 ---
 
