@@ -57,9 +57,9 @@ This compiles:
 
 Every test can be executed in the following way:
 
-1. cd FOLDER
-2. dune exec FOLDER generate   (*generates env template with variable values*)
-3. dune exec FOLDER analyze    (*reads the template to output the final cost*)
+1. cd TESTFOLDER
+2. dune exec TESTFOLDER generate   (*generates env template with variable values*)
+3. dune exec TESTFOLDER analyze    (*reads the template to output the final cost*)
 
 ---
 
