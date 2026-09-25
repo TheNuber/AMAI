@@ -1,0 +1,4 @@
+(executable
+ (name training_step_qwen35_08B)
+ (public_name training_step_qwen35_08B)
+ (libraries AMAI))

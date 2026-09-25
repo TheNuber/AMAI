@@ -1,0 +1,4 @@
+(executable
+ (name example_inference)
+ (public_name example_inference)
+ (libraries AMAI))

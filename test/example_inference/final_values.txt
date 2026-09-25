@@ -1,0 +1,4 @@
+lat  = -nan
+i_sz = -nan
+o_sz = -nan
+mem  = 0.000000
